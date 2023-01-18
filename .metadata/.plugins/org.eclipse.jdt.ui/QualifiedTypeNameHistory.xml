@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="custom_exception.CustomHandlingException"/>
+    <fullyQualifiedTypeName name="genericStack.GStack"/>
+    <fullyQualifiedTypeName name="javax.management.Query"/>
+    <fullyQualifiedTypeName name="simpleQueque.Quque"/>
+    <fullyQualifiedTypeName name="simpleQueque.QueGenric"/>
+    <fullyQualifiedTypeName name="CustomException.customHandlingException"/>
+    <fullyQualifiedTypeName name="circularQueue.CircularQueue"/>
+    <fullyQualifiedTypeName name="sll.Node"/>
+    <fullyQualifiedTypeName name="sll.LinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.Double"/>
+    <fullyQualifiedTypeName name="DLL.DoublyLL"/>
+    <fullyQualifiedTypeName name="BST.Node"/>
+    <fullyQualifiedTypeName name="BST.BinarySearchTree"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="Pair"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="search_Sort.Utils"/>
+    <fullyQualifiedTypeName name="graph.Graph"/>
+    <fullyQualifiedTypeName name="stack.DStack"/>
+    <fullyQualifiedTypeName name="stack.Emp"/>
+    <fullyQualifiedTypeName name="stack.StackGeneric"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="simpleQueque.Emp"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.lang.Object"/>
+    <fullyQualifiedTypeName name="GenericLL.LinkedList"/>
+    <fullyQualifiedTypeName name="GenericLL.Emp"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,19 @@
+INDEX VERSION 1.131+C:\Nikita_CDAC\CDAC\ADS_Data\ADS_CODE\.metadata\.plugins\org.eclipse.jdt.core
+1615116574.index
+1865797976.index
+3931871752.index
+650643920.index
+356794847.index
+1577380392.index
+1516357133.index
+1614646884.index
+781344666.index
+1919782378.index
+1265141952.index
+353480078.index
+2361772636.index
+99195886.index
+1057014459.index
+2847917561.index
+582656207.index
+3129369630.index
